@@ -1,4 +1,4 @@
-#  Team Members hyujghj:     
+#  Team Members     
 #  % Effort    :   
 #
 # ECE369,  
