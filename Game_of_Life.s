@@ -1,4 +1,4 @@
-#  Team Members:     
+#  Team Members hyujghj:     
 #  % Effort    :   
 #
 # ECE369,  
@@ -86,7 +86,7 @@ frame1:  .word    0xababcdcd, 0x1111ff00,
 		 .word    0x56765, 0x787878,
 		 .word    0x444490, 0x676723,
 		 .word    0x2345, 0x5432
-		 
+		    
 		 
 		 .word    0xababcdcd, 0x1111ff00,
          .word    0x00,0xf0,
